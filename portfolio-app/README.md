@@ -139,3 +139,12 @@ Cukup buka file `src/data/portfolioData.js` dan sesuaikan nilainya:
 - Ganti daftar universitas di bagian `education`.
 - Tambahkan atau perbarui proyek di bagian `projects` beserta tautan repositori GitHub asli Anda.
 - Ganti email, username GitHub, dan nomor WhatsApp di bagian `contact`.
+
+<img width="1597" height="902" alt="{12AF13C6-F855-412A-9878-A654FACB655F}" src="https://github.com/user-attachments/assets/3eea2870-b57b-481f-b653-8aa58f1b6f90" />
+<img width="1600" height="895" alt="{355F87ED-449A-49AF-B055-F16C51CA5D0B}" src="https://github.com/user-attachments/assets/16ea328e-2b6d-4b6d-af43-cfa8c850e562" />
+<img width="1596" height="902" alt="{3BCBA4DD-81D2-4008-AEA7-B7F61F8BDC4D}" src="https://github.com/user-attachments/assets/6788170a-8e8e-4c9d-953b-429010ea91c5" />
+<img width="1596" height="899" alt="{ECC3E051-AA69-4359-8B5E-7E92EEE07E4D}" src="https://github.com/user-attachments/assets/f1bb2c6f-902d-43fc-89ed-7a3cd08eeba2" />
+
+
+
+
